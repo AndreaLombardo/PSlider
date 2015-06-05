@@ -1,4 +1,4 @@
-# nSlider
+# PSlider
 Da la possibilità di creare degli slider con cursori mobili e interattivi in Processing. Utile qualora si volessero creare delle interfacce grafiche per inviare valori ad altri software o ardware tipo Arduino
 Obbiettivo futuro è quello di trasformare il progetto in libreria... Ho imparato ieri ad usare Processing!
 
