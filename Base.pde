@@ -1,3 +1,11 @@
+/*
+ * PSlider v 1.0
+ * Slider dinamici in Processing
+ *
+ * Autore  : Andrea Lombardo
+ * Web     : http://www.lombardoandrea.com
+ * Git     : https://github.com/AndreaLombardo/PSlider
+ */
 
 public class Base {
   protected float _x; //Coord X

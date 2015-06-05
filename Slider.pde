@@ -1,10 +1,10 @@
 /*
- * nSlider v 1.0
- * Slider dinamici per Processing
+ * PSlider v 1.0
+ * Slider dinamici in Processing
  *
  * Autore  : Andrea Lombardo
  * Web     : http://www.lombardoandrea.com
- * Git     : 
+ * Git     : https://github.com/AndreaLombardo/PSlider
  */
 
 public class Slider extends Base {
