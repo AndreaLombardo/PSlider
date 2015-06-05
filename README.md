@@ -8,6 +8,10 @@ Obbiettivo futuro è quello di trasformare il progetto in libreria... Ho imparat
 Slider mioSlider;
 
 void setup(){
+  noSmooth();
+  size(320, 480);
+  background(255);
+  
   // Slider(x, y, width, height, fillColor, strokeColor)
   mioSlider = new Slider(20, 20, 30, 120, color(#FFFFFF), color(#000000));
   mioSlider.setRange(0, 255);
